@@ -15,6 +15,7 @@
   * [💰 User rewards](hugs-whitepaper/the-hugs-platform/user-rewards.md)
   * [⭐ Reputation Building](hugs-whitepaper/the-hugs-platform/reputation-building.md)
   * [📈 Web 3.0 Affiliates](hugs-whitepaper/the-hugs-platform/web-3.0-affiliates.md)
+* [The Hugs Reviewer Network](hugs-whitepaper/the-hugs-reviewer-network.md)
 * [The HUGS Token](hugs-whitepaper/the-hugs-token.md)
 * [Disclaimer](hugs-whitepaper/disclaimer.md)
 
