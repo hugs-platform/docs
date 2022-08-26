@@ -4,7 +4,7 @@
 
 ### Token supply
 
-The initial HUGS token supply is fixed at 100,000,000 (one hundred million) tokens. Each HUGS token can be divided into smaller units. HUGS is a Solana SPL token with 18 decimals. The smallest unit is therefore 0.000000000000000001 HUGS.&#x20;
+The initial HUGS token supply is fixed at 100,000,000 (one hundred million) tokens. Each HUGS token can be divided into smaller units. HUGS is a Solana SPL token with 9 decimals. The smallest unit is therefore 0.000000001 HUGS.&#x20;
 
 ### Token functionality
 
