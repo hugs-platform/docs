@@ -1,3 +1,7 @@
+---
+description: Safeguarding data quality in the blockchain
+---
+
 # The Hugs Reviewer Network
 
 ### Introduction
@@ -8,7 +12,7 @@ The objective of the Hugs Reviewer Network is to increase the quality of off-cha
 
 The Hugs Reviewer Network uses a blockchain network to track the data across the flow and link it to the required collateral. Initially, Solana will be used because of its low transaction fees, but the goal is to eventually integrate different blockchain solutions as well and allow cross-chain interactions.
 
-![The Hugs Reviewer Network](<../.gitbook/assets/Schermafbeelding 2022-06-07 om 09.16.05.png>)
+![The Hugs Reviewer Network](<../../.gitbook/assets/Schermafbeelding 2022-06-07 om 09.16.05.png>)
 
 The following stakeholders are involved:
 
@@ -31,13 +35,13 @@ The typical flow for these stakeholders is indicated on the overview above and g
 
 The Hugs Reviewer Network (HRN) uses a collateralized review process to incentivize honest and trustworthy reviews. After a Reviewer receives a request on his Review Proposal he will be able to start the process by staking the amount of $HUGS tokens as indicated in the proposal. These tokens will be locked until the consumer accepts the review or a timeout occurs. (Tokens can also be unlocked after a consumer unsuccessfully asks for a refund. More on this later) Next,  consumers have the option to access the Review by locking the same amount of tokens in an escrow account, which gives them access to the content. When the consumer confirms the Review has been executed correctly, the escrow account is used as payment for the Reviewer and the Contributor.
 
-![Successfull Collateralized Review Process](<../.gitbook/assets/image (7).png>)
+![Successfull Collateralized Review Process](<../../.gitbook/assets/image (7).png>)
 
 But what happens if the review did not happen as it should have happened and the Consumer wants to dispute the Review in the hope he can retrieve the amount locked in the escrow account?
 
 In this case, the review will go to a dispute committee, existing of a set of reviewers with a high reputation. The dispute committee will execute the same collateralized review process and the majority consensus determines the outcome of the dispute. If the consumer wins the dispute, his escrow account is released and the reviewer collateral is divided among the committee. Alternatively, if the consumer loses the dispute, the escrow account is used instead to reward the committee.
 
-![](<../.gitbook/assets/Hugs Reviewer Network.png>)
+![](<../../.gitbook/assets/Hugs Reviewer Network.png>)
 
 ### Hugs Token Usage
 
